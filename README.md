@@ -4,6 +4,8 @@ Exercises proposed by my professor ([Leandro Machado Oliveira](https://www.linke
 
 Exercises list at [w01exercises.pdf](w01exercises.pdf) (in Portuguese Brazil).
 
+**Update:** added the teacher's answers, files ending with "-teacher".
+
 ## Serie links:
 
 - [C Exercises 1](https://github.com/giovannipds/c-exercises1) (this repo)
